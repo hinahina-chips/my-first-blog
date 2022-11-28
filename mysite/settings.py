@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$4)rpscp=(za*x%czn=5p4_1o62#)35s9=(8fd4=azm0ci(1-6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.amazonaws.com']
+ALLOWED_HOSTS = ['.amazonaws.com', '.pythonanywhere.com']
 
 
 # Application definition
